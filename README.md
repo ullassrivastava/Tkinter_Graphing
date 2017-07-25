@@ -18,4 +18,4 @@ Screenshot 1:
 Screenshot 2:
 <br/>![alt text](/screenshot2.PNG)<br/>
 Screenshot 3:
-![alt text](/screenshot3.PNG)
+<br/>![alt text](/screenshot3.PNG)<br/>
