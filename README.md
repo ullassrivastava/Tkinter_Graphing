@@ -14,8 +14,8 @@ Libraries :- numpy, pandas<br/>
 
 ## Screenshots
 Screenshot 1:
-![alt text](/screenshot1.PNG)<br/><br/>
+<br/>![alt text](/screenshot1.PNG)<br/>
 Screenshot 2:
-![alt text](/screenshot2.PNG)<br/><br/>
+<br/>![alt text](/screenshot2.PNG)<br/>
 Screenshot 3:
 ![alt text](/screenshot3.PNG)
